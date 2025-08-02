@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mystyle1, .v1, .st2 {
+  width: 30%;
+  padding: 10px;
+  font-size: 18px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.mystyle1, .v1, .st2 {
+  float: none;
+  border-left: 4px solid green;
+}
